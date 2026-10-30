@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-CznXPbDH.js";var t=e(),n=()=>(0,t.jsx)(`div`,{className:`flex flex-1 items-center justify-center bg-warm p-8 text-center text-muted-foreground`,children:`Pick a conversation to start talking.`});export{n as component};
